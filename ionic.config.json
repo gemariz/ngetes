@@ -1,0 +1,8 @@
+{
+  "name": "ngetes",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "db583575"
+}
